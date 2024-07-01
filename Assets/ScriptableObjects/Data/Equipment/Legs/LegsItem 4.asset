@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e2666ddaeacc642812129cc02de555, type: 3}
+  m_Name: LegsItem 4
+  m_EditorClassIdentifier: 
+  ItemCategory: 2
+  Icon: {fileID: 1226469635, guid: 8ccf0a91add80d04bb16e0fdc0371a48, type: 3}
+  Strength: 5
+  Agility: 5
+  Intelligence: 5
+  Cost: 551
